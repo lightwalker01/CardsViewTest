@@ -1,2 +1,2 @@
 # CardsViewTest
-Test repository for https://github.com/AndreiMisiukevich/CardView
+Test repository for issue https://github.com/AndreiMisiukevich/CardView/issues/318
